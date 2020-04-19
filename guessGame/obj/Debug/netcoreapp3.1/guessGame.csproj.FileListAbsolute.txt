@@ -1,0 +1,13 @@
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\bin\Debug\netcoreapp3.1\guessGame.exe
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\bin\Debug\netcoreapp3.1\guessGame.deps.json
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\bin\Debug\netcoreapp3.1\guessGame.runtimeconfig.json
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\bin\Debug\netcoreapp3.1\guessGame.runtimeconfig.dev.json
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\bin\Debug\netcoreapp3.1\guessGame.dll
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\bin\Debug\netcoreapp3.1\guessGame.pdb
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.csprojAssemblyReference.cache
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.csproj.CoreCompileInputs.cache
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.AssemblyInfoInputs.cache
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.AssemblyInfo.cs
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.dll
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.pdb
+C:\Users\OLUMIDE\Desktop\HNG C#\guessGame\obj\Debug\netcoreapp3.1\guessGame.genruntimeconfig.cache
